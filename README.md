@@ -1,4 +1,4 @@
-# Project Title
+# Coulomb Blocade Plots
 
 Program creats an animated gif showing energy levels in a superconducting island with respect to changing of the voltage gate. Based on information from arXiv:1603.08258. Shows coulomb blocade regime.
 
