@@ -6,6 +6,8 @@ Program creats an animated gif showing energy levels in a superconducting island
 
 Running mathematica code will automatically output an animated gif into the folder containging this code. Single plots can be obtained by indexing tableOfPlots[[i]] within the code.
 
+![](coulombBlocadeAnimation.gif)
+
 ## Caviots/Improvements
 
 for now numberOfEnValsToPlot variable must be odd.
